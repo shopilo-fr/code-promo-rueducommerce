@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-rueducommerce",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Rue du Commerce depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-rue-du-commerce",
+    "bon-de-reduction-rue-du-commerce",
+    "coupon-rue-du-commerce",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/rueducommerce.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-rueducommerce.git"
+  }
+}
